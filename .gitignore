@@ -1,2 +1,4 @@
 
 .vs/
+PushNotificationsSample.Android/google-services.json
+PushNotificationsSample.Android/obj/
